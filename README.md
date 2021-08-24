@@ -1,2 +1,3 @@
 # spatie-permission-tagmanager-example
-Simple application for tagManager extension
+
+Custom classes for tag management with Spatie\MailTemplates fantastic package
